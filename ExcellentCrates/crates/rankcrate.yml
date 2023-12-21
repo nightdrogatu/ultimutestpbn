@@ -1,0 +1,100 @@
+Name: '&4&lRank Crate'
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 0
+  Cost:
+    MONEY: 0.0
+    EXP: 0.0
+Key:
+  Ids:
+  - rank_key
+Block:
+  Locations:
+  - 9956.0,173.0,-792.0,0.0,0.0,world
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Offset:
+      Y: 1.8
+    Text:
+    - '&f✦ &4&lʀᴀɴᴋ ᴄʀᴀᴛᴇ &f✦'
+    - '&f&lʀɪɢʜᴛ-ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ ᴛʜɪꜱ ᴄʀᴀᴛᴇ'
+    - '&lʏᴏᴜ ʜᴀᴠᴇ %excellentcrates_keys_rankcrate% ʀᴀɴᴋ ᴄʀᴀᴛᴇ ᴋᴇʏꜱ'
+  Effect:
+    Model: SPHERE
+    Particle:
+      Name: CRIMSON_SPORE
+Rewards:
+  List:
+    _-_7_days:
+      Name: '&f&r &7- &77 Days'
+      Chance: 20.0
+      Rarity: ':limited:'
+      Broadcast: true
+      Win_Limits:
+        Amount: 1
+        Cooldown: 1
+      Preview: 1800020009km800idlkmspb3e9gmct1qdpgmqpavehgme2g00dq62poa003m8qbje1m62u880024sobdck0g8up2cls78sj148t5mup2c9nmop1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bn814h2fkm7m8j9ehgmoqb348t6cobcediio8jkcls788hq48g24v9cfch6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp62u925gh78pboegh3k8hd40h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24dp08hgnisp2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Commands:
+      - lp user %player_name% parent addtemp vip 7d30m
+      Items: []
+      Ignored_For_Permissions: []
+    _-_6_days:
+      Name: '&f&r &7- &76 Days'
+      Chance: 20.0
+      Rarity: ':limited:'
+      Broadcast: true
+      Win_Limits:
+        Amount: 1
+        Cooldown: 1
+      Preview: 1800020009km800idlkmspb3e9gmct1qdpgmqpavehgme2g00dq62poa003m8qbje1m62u880024sobdck0g8up2cls78sj148t5mup2c9nmop1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bn83292fkm7m8j9ehgmoqb348t6cobcediio8jkcls788hq48g24v9cfch6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp62u925gh78pboegh3k8hd40h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24dh08hgnisp2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Commands:
+      - lp user %player_name% parent addtemp vip+ 6d30m
+      Items: []
+      Ignored_For_Permissions: []
+    _-_5_days:
+      Name: '&f&r &7- &75 Days'
+      Chance: 20.0
+      Rarity: ':limited:'
+      Broadcast: true
+      Win_Limits:
+        Amount: 1
+        Cooldown: 1
+      Preview: 1800020009km800idlkmspb3e9gmct1qdpgmqpavehgme2g00dq62poa003m8qbje1m62u880024sobdck0g8up2cls78sj148t5mup2c9nmop1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bn832h2fkm7m8j9ehgmoqb348t6cobcediio8jkcls788hq48g24v9cfch6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp62u925gh78pboegh3k8hd40h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24d908hgnisp2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Commands:
+      - lp user %player_name% parent addtemp mvp 5d30m
+      Items: []
+      Ignored_For_Permissions: []
+    _-_4_days:
+      Name: '&f&r &7- &74 Days'
+      Chance: 20.0
+      Rarity: ':limited:'
+      Broadcast: true
+      Win_Limits:
+        Amount: 1
+        Cooldown: 1
+      Preview: 1800020009km800idlkmspb3e9gmct1qdpgmqpavehgme2g00dq62poa003m8qbje1m62u880024sobdck0g8up2cls78sj148t5mup2c9nmop1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bn832p2fkm7m8j9ehgmoqb348t6cobcediio8jkcls788hq48g24v9cfch6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp62u925gh78pboegh3k8hd40h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24d108hgnisp2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Commands:
+      - lp user %player_name% parent addtemp mvp+ 4d30m
+      Items: []
+      Ignored_For_Permissions: []
+    _-_3_days:
+      Name: '&f&r &7- &73 Days'
+      Chance: 20.0
+      Rarity: ':limited:'
+      Broadcast: true
+      Win_Limits:
+        Amount: 1
+        Cooldown: 1
+      Preview: 1800020009km800idlkmspb3e9gmct1qdpgmqpavehgme2g00dq62poa003m8qbje1m62u880024sobdck0g8up2cls78sj148t5mup2c9nmop1279j62r3jckm24qbkc5m6iop279j62r3jckm24tbechin4r39dpim88hqcpgmosr55gh76t3id5lmat38e9nnapr848t6cobcediio8jfc9j7asr3c5q6ap1279j62r3jckm24orfdhnn48hq49rmgqbkckh2o8jkcls788hq4bn83312fkm7m8j9ehgmoqb348t6cobcediio8jkcls788hq48g24v9cfch6it31dhkm68hqcpgmosr55gh66rrcdtp24eh2ctp62u925gh78pboegh3k8hd40h7qb3r49kn8obcd5hi4ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24cp08hgnisp2fleio8jkcls788hq48h7q0000400agrfeln78080
+      Commands:
+      - lp user %player_name% parent addtemp immortal 3d30m
+      Items: []
+      Ignored_For_Permissions: []
+Animation_Config: roulette
+Item:
+  Material: PAPER
+  Name: '&fEmerald box &5legendary'
+  Custom_Model_Data: 10049

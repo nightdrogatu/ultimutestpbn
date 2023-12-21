@@ -1,0 +1,7 @@
+Name: '&9&lRare Key'
+Virtual: false
+Item:
+  Material: TRIPWIRE_HOOK
+  Name: '&9&lRare Key'
+  Enchants:
+    unbreaking: 1

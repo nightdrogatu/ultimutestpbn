@@ -1,0 +1,27 @@
+common:
+  Name: 'Common'
+  Chance: 50.0
+
+uncommon:
+  Name: 'Uncommon'
+  Chance: 30.0
+
+rare:
+  Name: 'Rare'
+  Chance: 15.0
+
+legendary:
+  Name: 'Legendary'
+  Chance: 5.0
+  
+insane:
+  Name: 'Insane'
+  Chance: 2.5
+
+:limited::
+  Name: 'Limited'
+  Chance: 1.5
+  
+secret:
+  Name: 'Secret'
+  Chance: 0.1

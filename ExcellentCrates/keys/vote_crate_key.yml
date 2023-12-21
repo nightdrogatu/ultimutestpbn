@@ -1,0 +1,7 @@
+Name: '&e&lVote Key'
+Virtual: false
+Item:
+  Material: TRIPWIRE_HOOK
+  Name: '&e&lVote Key'
+  Enchants:
+    unbreaking: 1

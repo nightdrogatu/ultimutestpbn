@@ -1,0 +1,7 @@
+Name: '&4&lRank Key'
+Virtual: false
+Item:
+  Material: TRIPWIRE_HOOK
+  Name: '&4&lRank Key'
+  Enchants:
+    unbreaking: 1

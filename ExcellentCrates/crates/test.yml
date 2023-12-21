@@ -1,0 +1,33 @@
+Name: '&b&lEVENT CRATE'
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 0
+  Cost:
+    MONEY: 0.0
+    EXP: 0.0
+Key:
+  Ids: []
+Block:
+  Locations:
+  - 9940.0,173.0,-787.0,0.0,0.0,world
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Offset:
+      Y: 2.5
+    Text:
+    - '&f✦ #9CFFCB&lᴇᴠᴇɴᴛ ᴄʀᴀᴛᴇ - In development &f✦'
+    - '&f&lʀɪɢʜᴛ-ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ ᴛʜɪꜱ ᴄʀᴀᴛᴇ'
+    - '&f&lʏᴏᴜ ʜᴀᴠᴇ %excellentcrates_keys_test% ᴇᴠᴇɴᴛ ᴄʀᴀᴛᴇ ᴋᴇʏꜱ'
+  Effect:
+    Model: HELIX
+    Particle:
+      Name: REDSTONE
+      Color: 92,226,29
+      Size: 1.0
+Item:
+  Material: PAPER
+  Name: '&fEnder Eye Chest'
+  Custom_Model_Data: 10061

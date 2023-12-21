@@ -1,0 +1,193 @@
+Name: '&c&lEpic Crate'
+Preview_Config: default
+Permission_Required: false
+Opening:
+  Cooldown: 3
+  Cost:
+    MONEY: 0.0
+    EXP: 0.0
+Key:
+  Ids:
+  - epic_crate_key
+Block:
+  Locations:
+  - 9952.0,173.0,-792.0,0.0,0.0,world
+  Pushback:
+    Enabled: true
+  Hologram:
+    Enabled: true
+    Offset:
+      Y: 2.5
+    Text:
+    - '&f✦ &5&l ᴇᴘɪᴄ ᴄʀᴀᴛᴇ &f✦'
+    - '&f&lʀɪɢʜᴛ-ᴄʟɪᴄᴋ ᴛᴏ ᴏᴘᴇɴ ᴛʜɪꜱ ᴄʀᴀᴛᴇ'
+    - '&lʏᴏᴜ ʜᴀᴠᴇ %excellentcrates_keys_epic% ᴇᴘɪᴄ ᴄʀᴀᴛᴇ ᴋᴇʏꜱ'
+  Effect:
+    Model: HEART
+    Particle:
+      Name: REDSTONE
+      Color: 0,0,0
+      Size: 1.0
+Animation_Config: roulette
+Rewards:
+  List:
+    trident:
+      Name: Trident
+      Chance: 5.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 1800020009km800hdlkmspb3e9gmct1qehp6ip35dpq0k003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 1800020009km800hdlkmspb3e9gmct1qehp6ip35dpq0k003ehgme0o01996as31d5p46rrjeg0000011400ohbecdk62rjkdlimst3j1800000110004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Ignored_For_Permissions: []
+    netherite_boots:
+      Name: Netherite Boots
+      Chance: 20.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 5000080016ip0035mmirj5cdp62pjk79n6at38clp6it35bth6urrkec5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 5000080016ip0035mmirj5cdp62pjk79n6at38clp6it35bth6urrkec5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Ignored_For_Permissions: []
+    netherite_leggings:
+      Name: Netherite Leggings
+      Chance: 20.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 2g0004000j9cg01orb9dpim6sj1cpq3krj5ehk6asj9ehilur35ctjmirj7ec5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 2g0004000j9cg01orb9dpim6sj1cpq3krj5ehk6asj9ehilur35ctjmirj7ec5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Ignored_For_Permissions: []
+    netherite_chestplate:
+      Name: Netherite Chestplate
+      Chance: 20.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 5000080016ip003pmmirj5cdp62pjk79n6at38clp6it35bthmgpbjeho6oobkck5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 5000080016ip003pmmirj5cdp62pjk79n6at38clp6it35bthmgpbjeho6oobkck5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Ignored_For_Permissions: []
+    netherite_helmet:
+      Name: Netherite Helmet
+      Chance: 20.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 1800020009km800qdlkmspb3e9gmct1qdpin8q35e9kn8pavd1imorb5eg5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - 1800020009km800qdlkmspb3e9gmct1qdpin8q35e9kn8pavd1imorb5eg5000rkc5jg600aa9in0ob9e91musrk000000o90064arj3d1gmst3dcln78soa000000g80016ip002hmmirj5cdp62pjk79o74rrkclhn8qbfdo1000rcepm0010010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Ignored_For_Permissions: []
+    bow:
+      Name: Bow
+      Chance: 20.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: a0000g002d5i003bdd5n6aoric5j78ej2dtrgk003ehgme0o01996as31d5p46rrjeg0000071400ohbecdk62rjkdlimst3j1800000310004qb4007mqqbeclhn4ob6egt6cr31dlig4003dhr6o001004000j9cg014rb9dpim6sj1cpq3kqbecpkmsqbkf41000rcepm0008010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Commands: []
+      Items:
+      - a0000g002d5i003bdd5n6aoric5j78ej2dtrgk003ehgme0o01996as31d5p46rrjeg0000071400ohbecdk62rjkdlimst3j1800000310004qb4007mqqbeclhn4ob6egt6cr31dlig4003dhr6o001004000j9cg014rb9dpim6sj1cpq3kqbecpkmsqbkf41000rcepm0008010004qb400a6qqbeclhn4ob6egt7arj2e9im2qr9dpjg4003dhr6o003001g01i4c5mm2pr5000000000400agrfeln78080
+      Ignored_For_Permissions: []
+    emerald_block:
+      Name: Emerald Block
+      Chance: 85.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: k00010004qb400bmqqbeclhn4ob6egt6arb5e9gmop2vc9m6uorb0400agrfeln78g00
+      Commands: []
+      Items:
+      - k00010004qb400bmqqbeclhn4ob6egt6arb5e9gmop2vc9m6uorb0400agrfeln78g00
+      Ignored_For_Permissions: []
+    enchanted_golden_apple:
+      Name: Enchanted Golden Apple
+      Chance: 85.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 2g0004000j9cg020rb9dpim6sj1cpq3kpbecdk62rjkcli5uprfdhi6arivc5o70r350400agrfeln78g00
+      Commands: []
+      Items:
+      - 2g0004000j9cg020rb9dpim6sj1cpq3kpbecdk62rjkcli5uprfdhi6arivc5o70r350400agrfeln78g00
+      Ignored_For_Permissions: []
+    diamond_block:
+      Name: Diamond Block
+      Chance: 85.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: k00010004qb400bmqqbeclhn4ob6egt68qb1dlnmsp2vc9m6uorb0400agrfeln78g00
+      Commands: []
+      Items:
+      - k00010004qb400bmqqbeclhn4ob6egt68qb1dlnmsp2vc9m6uorb0400agrfeln78g00
+      Ignored_For_Permissions: []
+    netherite_block:
+      Name: Netherite Block
+      Chance: 85.0
+      Rarity: common
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 1800020009km800pdlkmspb3e9gmct1qdpin8q35e9kn8pavc9m6uorb0400agrfeln78g00
+      Commands: []
+      Items:
+      - 1800020009km800pdlkmspb3e9gmct1qdpin8q35e9kn8pavc9m6uorb0400agrfeln78g00
+      Ignored_For_Permissions: []
+    end_crystal:
+      Name: End Crystal
+      Chance: 20.0
+      Rarity: legendary
+      Broadcast: false
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: a0000g002d5i005bdd5n6aoric5j78ej5dpi5uorif5pn8obc0400agrfeln78g00
+      Commands: []
+      Items:
+      - a0000g002d5i005bdd5n6aoric5j78ej5dpi5uorif5pn8obc0400agrfeln78g00
+      Ignored_For_Permissions: []
+    god_potion_(splash):
+      Name: '&4&lGOD POTION'
+      Chance: 0.1
+      Rarity: secret
+      Broadcast: true
+      Win_Limits:
+        Amount: -1
+        Cooldown: 0
+      Preview: 5000080016ip002tmmirj5cdp62pjk79pn0r31edk5us3fehkmurga001n8ob714016grledq6uragdtq6irre8lj6cpb3ehpgk0000080200dadk6utqgc5p78qb3dhin60810014ip010c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg40400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip030c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip050c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip060c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip080c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg10400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0a0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0b0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg20400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0c0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0d0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0g0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0l0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0n0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasjv0400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0q0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasj30400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0t0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0u0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip100c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg50400egbdc9kmarjk0000k007chkn6s3cc5sgg0049pgmqp80ftti4pboehp628hqbdti4qbkc5m6iop279j62r3jckm24orfdhnn48hq49p6ap125gh78pboegh3k8i7dti20s3fehkmurh049uioup2d5q62r39cch3kpj1dhpmab12cdnmorri48t24p31e9llusj5cgh2o8jkcls788hq48k56s3cc5pmga92fleio8jkcls788hq48h7q2800h66usj51000000203cnm8j5f1q74o9279dnm8j2dtm688hqcpgmosr55gh6it31dhkm68hqcpgmosr55gh7arj4clp6oqbecli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh66rrcdtp24eh2ctp62u925gh78pboegh3k8i8f5o6iu35dgg4err44186ut39dtn2o812fkm7m8j9ehgmoqb348t6cobcediio8j3dtm6ush278h68obiddfn4pb448m24t35f1q24eh2ado6oobjd0g6ap39ehkmurh149ulqb12ehingt1278h24v80jdti4pboehp628hqbdti4ojfdhi24ej6c5m76p9c49kn8obcd5hi4ej6c5m76p9c49qmsp35e9m6irj5cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24lr9ehk20pboehp62835cpj6aorkecn24vat5gh78pboegh3k8h2fk00600991km8pa6dhgmeso00007u2000p86ut39dtn003rdd5n6aoric5j78ej5dlo78u800400agrfeln78080
+      Commands: []
+      Items:
+      - 5000080016ip002tmmirj5cdp62pjk79pn0r31edk5us3fehkmurga001n8ob714016grledq6uragdtq6irre8lj6cpb3ehpgk0000080200dadk6utqgc5p78qb3dhin60810014ip010c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg40400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip030c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip050c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip060c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip080c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg10400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0a0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0b0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg20400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0c0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0d0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0g0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0l0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg90400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0n0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasjv0400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0q0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasj30400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0t0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip0u0c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg00400egbdc9kmarjk0000200dadk6utqgc5p78qb3dhin60810014ip100c00gh3le9gn8qbfdpvvvvvv0400gkr8dtrkiorfdo0g200985mn0r39cpkmasg50400egbdc9kmarjk0000k007chkn6s3cc5sgg0049pgmqp80ftti4pboehp628hqbdti4qbkc5m6iop279j62r3jckm24orfdhnn48hq49p6ap125gh78pboegh3k8i7dti20s3fehkmurh049uioup2d5q62r39cch3kpj1dhpmab12cdnmorri48t24p31e9llusj5cgh2o8jkcls788hq48k56s3cc5pmga92fleio8jkcls788hq48h7q2800h66usj51000000203cnm8j5f1q74o9279dnm8j2dtm688hqcpgmosr55gh6it31dhkm68hqcpgmosr55gh7arj4clp6oqbecli24ej6c5m76p9c49pn8sj9ddin8q3idtqmeq1279j62r3jckm24rr2cpqn6or1ehim88hqcpgmosr55gh66rrcdtp24eh2ctp62u925gh78pboegh3k8i8f5o6iu35dgg4err44186ut39dtn2o812fkm7m8j9ehgmoqb348t6cobcediio8j3dtm6ush278h68obiddfn4pb448m24t35f1q24eh2ado6oobjd0g6ap39ehkmurh149ulqb12ehingt1278h24v80jdti4pboehp628hqbdti4ojfdhi24ej6c5m76p9c49kn8obcd5hi4ej6c5m76p9c49qmsp35e9m6irj5cgh3kpj1dhpmab12edq74qbbclq6gsjfeljmg8hqcpgmosr55gh6uoj6elpm6obkcli24ej6c5m76p9c49hmur3fe8h3k8j7e9gni8hc49q6au3k48t24lr9ehk20pboehp62835cpj6aorkecn24vat5gh78pboegh3k8h2fk00600991km8pa6dhgmeso00007u2000p86ut39dtn003rdd5n6aoric5j78ej5dlo78u800400agrfeln78080
+      Ignored_For_Permissions: []
+Item:
+  Material: PAPER
+  Name: '&fAmethyst box &5legendary'
+  Custom_Model_Data: 10047

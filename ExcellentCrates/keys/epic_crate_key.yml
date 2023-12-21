@@ -1,0 +1,7 @@
+Name: '&c&lEpic Key'
+Virtual: false
+Item:
+  Material: TRIPWIRE_HOOK
+  Name: '&c&lEpic Key'
+  Enchants:
+    unbreaking: 1
